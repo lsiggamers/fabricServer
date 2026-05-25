@@ -1,1 +1,1 @@
-Due to the mod Essential being too big you will have to add it yourself
+The mod Essentials may be too big for some releases, so you might have to add it yourself. Check to make sure if the file is included
