@@ -1,1 +1,1 @@
-The mod Essentials may be too big for some releases, so you might have to add it yourself. Check to make sure if the file is included
+To use this go to the fabricSever folder and run this command ./setup.sh "path", change the path with the directory of your mods folder. Find it in the modrinth open folder option. Remember the "".
